@@ -1,6 +1,7 @@
 # Ampflower's Archive
 
-Hi, I'm [Ampflower](https://github.com), previously known as KJP12, which is likely how you stumbled into here in the
+Hi, I'm [Ampflower](https://github.com/Ampflower), previously known as KJP12, which is likely how you stumbled into here
+in the
 first place.
 
 Here, you'll find some old archived projects that I no longer actively maintain.
